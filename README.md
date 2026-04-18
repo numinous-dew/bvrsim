@@ -34,6 +34,8 @@
 
   仿真过程自动生成 `.acmi` 文件，可直接拖入 Tacview 软件进行 3D 回放分析，支持显示雷达锁定、导弹轨迹、命中事件。
 
+  ![Tacview Visualization Preview](tacview_preview.png)
+
 - **适于学术研究与 AI 训练**
 
   标准化的 `DroneInfo` 、 `SendData` 接口，便于与强化学习环境对接；
