@@ -30,4 +30,12 @@ Thumbs.db
 *.db
 
 # Simulation outputs (optional: keep if you want to track them)
-tacview_*.acmi
+*.acmi
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+images/
