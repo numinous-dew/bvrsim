@@ -51,7 +51,7 @@
 - **Tacview 原生可视化**
 
   自动生成 `.acmi` 日志，支持雷达锁定、导弹轨迹与命中事件的三维回放。
-  ![Tacview Visualization Preview](tacview/preview.jpg)
+  ![Tacview Visualization Preview](tacview/preview.png)
 
 - **零额外依赖安装**
 
